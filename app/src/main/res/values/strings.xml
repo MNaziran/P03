@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="gst">GST</string>
+    <string name="no_gst">No GST</string>
+    <string name="svc">SVC</string>
+    <string name="no_svc">NO SVC</string>
+    <string name="paynow">PayNow</string>
+    <string name="cash">Cash</string>
+    <string name="discount">Discount(%):</string>
+    <string name="no_of_pax">No of Pax:</string>
+    <string name="amount">Amount:</string>
+    <string name="split">SPLIT</string>
+    <string name="reset">RESET</string>
+</resources>
